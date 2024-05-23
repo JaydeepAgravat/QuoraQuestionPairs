@@ -22,7 +22,3 @@ Quora is a place to gain and share knowledge. It's a platform to ask questions a
  - To achieve this objective, it was further broken down into the following n technical sub-objectives:
     - Data Gathering
     - Perform exploratory data analysis.
-
-## Data Gathering
-
-## Exploratory Data Analysis
